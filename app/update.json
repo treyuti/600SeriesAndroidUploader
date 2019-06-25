@@ -1,14 +1,12 @@
 {
-  "latestVersion": "0.5.1",
-  "latestVersionCode": "9",
-  "url": "https://github.com/pazaan/600SeriesAndroidUploader/releases/tag/v0.5.1",
+  "latestVersion": "0.6.1",
+  "latestVersionCode": "11",
+  "url": "https://github.com/pazaan/600SeriesAndroidUploader/releases/tag/v0.6.1",
   "releaseNotes": [
-    "- Further improvements to polling",
-    "- Crash fixes",
-    "- Fix fingerstick BG reporting",
-    "- Refresh the display correctly after polling from the pump",
-    "- Add icons to log entries",
-    "- Add auto-scrolling to status log",
-    "- Fix trend arrows truncated on some phones"
+    "- Nightscout alarm triggers for calibration and expired sensor",
+    "- Option to change Grams Per Exchange value",
+    "- Option to use old method for requesting USB permission",
+    "- Messaging for busy states",
+    "- Bug and crash fixes"
   ]
 }
